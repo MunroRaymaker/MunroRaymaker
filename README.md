@@ -1,4 +1,4 @@
-### Hi there, I'm Jens - aka [MunroRaymaker][website] 👋
+### Hi there, I'm Jens - aka [MunroRaymaker][website]
 
 ### Connect with me:
 
