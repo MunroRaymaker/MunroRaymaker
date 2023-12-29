@@ -1,4 +1,4 @@
-### Hi there, I'm Jens - aka [MunroRaymaker][website]
+### Hi there, I'm [MunroRaymaker][website]
 I've been a Full Stack Developer for more than 10 years. Working with .NET Core, ASP.NET, SQL, Azure and Information Security.
 
 ### Connect with me:
